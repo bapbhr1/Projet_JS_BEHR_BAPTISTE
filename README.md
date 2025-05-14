@@ -4,7 +4,7 @@
 Ce projet vise à proposer des suggestions :
 - de complétion de mot (ex: "cha" → "chat", "chanson"…)
 
-ou de proposition de mot suivant après un espace (ex: "chat " → "mange", "court"…)
+- ou de proposition de mot suivant après un espace (ex: "chat " → "mange", "court"…)
 
 Il utilise deux modèles de Markov qui sont entraînés sur input.txt.
 
