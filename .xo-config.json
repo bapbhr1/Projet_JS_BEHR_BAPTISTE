@@ -1,0 +1,7 @@
+{
+    "semicolon": false,
+    "space": true,
+    "rules": {
+    "quotes": ["error", "single"]
+}
+}
