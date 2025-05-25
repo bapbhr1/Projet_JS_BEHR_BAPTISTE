@@ -9,7 +9,7 @@ const {
 } = require("./markov");
 
 //chargement du texte
-const rawText = readTextFile("./data/input.txt");
+const rawText = readTextFile("./input.txt");
 const words = cleanAndSplitText(rawText);
 
 const letterModel = buildLetterModel(words);
